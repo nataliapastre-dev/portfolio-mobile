@@ -1,94 +1,73 @@
-# 💜 Portfólio Mobile — Natália Baptista Pastre
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://i.postimg.cc/tJWPXFhv/Imagem-do-Chat-GPT-28-de-set-de-2026-21-08-12.png"
-    alt="Portfólio Natália Baptista Pastre"
-    width="100%"
-  />
-</p>
+# 💜 Portfólio Mobile
 
-<p align="center">
-  <strong>Desenvolvedora Front-end & Mobile</strong>
-</p>
+### Natália Baptista Pastre
 
-<p align="center">
-  Transformando ideias, processos e necessidades reais em experiências digitais modernas, responsivas e funcionais.
-</p>
+**Desenvolvedora Front-end & Mobile**
 
-<p align="center">
-  <a href="https://portfolio-mobile.onrender.com/">
-    🌐 Acessar Portfólio
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/nataliapastre-dev">
-    💻 GitHub
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nataliapastre-dev/">
-    💼 LinkedIn
-  </a>
-</p>
+Portfólio profissional desenvolvido com **React Native, Expo e TypeScript**, reunindo minha trajetória, habilidades e projetos em uma experiência moderna, responsiva e multiplataforma.
+
+<br>
+
+<img 
+  src="https://i.postimg.cc/tJWPXFhv/Imagem-do-Chat-GPT-28-de-set-de-2026-21-08-12.png"
+  alt="Portfólio Mobile - Natália Baptista Pastre"
+  width="100%"
+/>
+
+<br><br>
+
+### 🌐 [Acessar portfólio publicado](https://portfolio-mobile.onrender.com/)
+
+</div>
 
 ---
 
 ## ✨ Sobre o projeto
 
-Este é o meu **portfólio profissional desenvolvido com React Native, Expo e TypeScript**, criado para reunir minha trajetória, tecnologias e principais projetos em uma única experiência.
+O **Portfólio Mobile** foi criado para apresentar minha evolução como desenvolvedora e reunir, em um único projeto, algumas das aplicações que desenvolvi durante minha jornada na tecnologia.
 
-O projeto foi desenvolvido com uma abordagem **multiplataforma**, permitindo acesso tanto pelo ambiente mobile quanto pela versão web.
+A aplicação utiliza uma única base em **React Native e Expo**, com experiência adaptada para dispositivos móveis e também para a web através do React Native Web.
 
-Mais do que apresentar projetos, o portfólio representa minha transição profissional para a tecnologia e a conexão entre minha experiência em **Administração e Gestão** e o desenvolvimento de soluções digitais.
+O projeto também representa a conexão entre minha experiência anterior em **Administração e Gestão** e minha atual formação em **Análise e Desenvolvimento de Sistemas**, aplicando tecnologia na construção de soluções digitais voltadas a problemas e necessidades reais.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias utilizadas
 
-### Front-end
+<div align="center">
 
-- React
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+### Principais recursos
+
 - React Native
-- TypeScript
 - Expo
+- TypeScript
 - Expo Router
 - React Native Web
-
-### Ecossistema e ferramentas
-
 - Expo Asset
 - Expo Sharing
-- Git
-- GitHub
-- VS Code
-- Render
-
----
-
-## 📱 Responsividade e multiplataforma
-
-O portfólio foi desenvolvido pensando em diferentes experiências de acesso.
-
-### Mobile
-
-A aplicação pode ser executada no ambiente React Native/Expo, com interface adaptada para dispositivos móveis.
-
-### Web
-
-A mesma base também possui versão web responsiva utilizando o ecossistema do Expo e React Native Web.
-
-🔗 **Versão publicada:**
-
-https://portfolio-mobile.onrender.com/
+- Layout responsivo
+- Deploy web com Render
 
 ---
 
 ## 💼 Projetos apresentados
 
-O portfólio reúne **7 projetos selecionados** da minha jornada:
+O portfólio reúne **7 projetos** que representam diferentes etapas da minha evolução no desenvolvimento web e mobile.
 
 ### 01 — SynerRH Web
 
-Sistema Full Stack para gestão e desenvolvimento de pessoas, reunindo colaboradores, avaliações, PDIs, feedbacks, ciclos e indicadores.
+Sistema Full Stack para gestão e desenvolvimento de pessoas, com funcionalidades para colaboradores, avaliações, PDIs, feedbacks, ciclos e indicadores.
 
 **Tecnologias:** React, TypeScript, Vite, Node.js, Fastify, Prisma e PostgreSQL.
 
@@ -98,7 +77,7 @@ Sistema Full Stack para gestão e desenvolvimento de pessoas, reunindo colaborad
 
 Sistema para gerenciamento de frotas, veículos, motoristas, manutenções, ordens de serviço, contratos, custos e indicadores operacionais.
 
-O projeto foi inspirado em processos e situações presentes na minha experiência profissional.
+O projeto foi inspirado em processos presentes na minha experiência profissional.
 
 **Tecnologias:** React, JavaScript, Node.js, Fastify, SQLite e JWT.
 
@@ -106,9 +85,7 @@ O projeto foi inspirado em processos e situações presentes na minha experiênc
 
 ### 03 — SynerRH Mobile
 
-Versão mobile do ecossistema SynerRH e meu primeiro projeto desenvolvido com React Native.
-
-A aplicação leva funcionalidades relacionadas à gestão de pessoas para uma experiência pensada para dispositivos móveis.
+Aplicação mobile criada a partir do ecossistema SynerRH, levando funcionalidades de gestão de pessoas para uma experiência desenvolvida para dispositivos móveis.
 
 **Tecnologias:** React Native, Expo, TypeScript, AsyncStorage e API REST.
 
@@ -116,7 +93,7 @@ A aplicação leva funcionalidades relacionadas à gestão de pessoas para uma e
 
 ### 04 — PlanejaAI
 
-Aplicação web voltada à organização e ao planejamento financeiro pessoal, permitindo visualizar renda, despesas e objetivos de forma estruturada.
+Aplicação web para organização e planejamento financeiro pessoal, permitindo visualizar renda, despesas e objetivos de forma estruturada.
 
 **Tecnologias:** HTML5, CSS3, JavaScript, Python e API.
 
@@ -124,9 +101,7 @@ Aplicação web voltada à organização e ao planejamento financeiro pessoal, p
 
 ### 05 — BatPass Mobile
 
-Aplicativo mobile para geração de senhas fortes e personalizadas.
-
-Permite configurar tamanho, tipos de caracteres e nível de segurança, além de copiar rapidamente a senha gerada.
+Aplicativo para criação de senhas fortes e personalizadas, permitindo configurar tamanho, tipos de caracteres e nível de segurança, além de copiar rapidamente a senha gerada.
 
 **Tecnologias:** React Native, Expo e TypeScript.
 
@@ -142,62 +117,72 @@ Landing page fictícia de uma hamburgueria desenvolvida com foco em identidade v
 
 ### 07 — SIGECON
 
-Sistema Inteligente de Gestão de Contratos e Indicadores.
-
-Aplicação corporativa para acompanhamento de contratos, fornecedores, vencimentos e indicadores estratégicos através de dashboards e gráficos.
+Sistema Inteligente de Gestão de Contratos e Indicadores, desenvolvido para gerenciamento de contratos, fornecedores, vencimentos e indicadores estratégicos.
 
 **Tecnologias:** React, Vite, JavaScript, React Router, Recharts e CSS3.
 
 ---
 
-## 🧠 Minha trajetória
+## 🎯 Objetivos do projeto
 
-Minha história profissional começou antes da programação.
+Durante o desenvolvimento deste portfólio, trabalhei principalmente com:
 
-Sou formada em **Administração**, com pós-graduação em **Gestão Empresarial**, e construí mais de 10 anos de experiência na área administrativa.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para dezembro de 2026, direcionando minha formação e meus projetos para **desenvolvimento Front-end e Mobile**.
-
-Essa combinação me permite olhar para tecnologia não apenas pelo código, mas também considerando:
-
-- processos;
-- organização;
-- experiência do usuário;
-- necessidades de negócio;
-- resolução de problemas;
-- transformação de ideias em soluções digitais.
-
-> **Experiência de negócio e tecnologia podem caminhar juntas para transformar problemas reais em soluções digitais.**
+- construção de interfaces responsivas;
+- desenvolvimento multiplataforma com React Native e Expo;
+- adaptação da experiência entre mobile e web;
+- organização e apresentação de projetos;
+- navegação e integração com links externos;
+- gerenciamento de assets locais;
+- disponibilização de currículo em PDF;
+- publicação e deploy da aplicação web.
 
 ---
 
-## 🛠️ Executando o projeto
+## 📱 Mobile + Web
 
-Clone o repositório:
+O projeto foi pensado para funcionar em diferentes plataformas a partir da mesma base.
+
+**Mobile:** execução através do ecossistema Expo e React Native.
+
+**Web:** exportação utilizando Expo Web e React Native Web, com deploy como Static Site.
+
+<div align="center">
+
+### 🔗 [portfolio-mobile.onrender.com](https://portfolio-mobile.onrender.com/)
+
+</div>
+
+---
+
+## 🛠️ Executando localmente
+
+### 1. Clone o repositório
 
 ```bash
 git clone git@github.com:nataliapastre-dev/portfolio-mobile.git
 ```
 
-Entre na pasta:
+### 2. Entre na pasta
 
 ```bash
 cd portfolio-mobile
 ```
 
-Instale as dependências:
+### 3. Instale as dependências
 
 ```bash
 npm install
 ```
 
-Execute o Expo:
+### 4. Inicie o projeto
 
 ```bash
 npx expo start
 ```
 
-Para executar diretamente no navegador:
+A partir do Expo, o projeto pode ser aberto no dispositivo móvel ou executado na versão web.
+
+Para iniciar diretamente no navegador:
 
 ```bash
 npm run web
@@ -205,21 +190,21 @@ npm run web
 
 ---
 
-## 🌐 Build Web
+## 🌐 Build e deploy
 
-Para gerar a versão de produção:
+Para gerar a versão web de produção:
 
 ```bash
 npx expo export --platform web
 ```
 
-O build será gerado na pasta:
+Os arquivos de produção são gerados no diretório:
 
 ```text
 dist/
 ```
 
-A versão web deste projeto está publicada como **Static Site no Render**.
+A versão web está publicada no **Render** como Static Site.
 
 ---
 
@@ -247,28 +232,34 @@ portfolio-mobile/
 
 ---
 
-## 📬 Contato
+## 👩‍💻 Sobre mim
 
-Quer conhecer mais sobre meu trabalho ou acompanhar minha jornada na tecnologia?
+Sou formada em **Administração**, com pós-graduação em **Gestão Empresarial** e mais de 10 anos de experiência profissional na área administrativa.
 
-**LinkedIn:**  
-https://www.linkedin.com/in/nataliapastre-dev/
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para dezembro de 2026, direcionando minha trajetória para o desenvolvimento **Front-end e Mobile**.
 
-**GitHub:**  
-https://github.com/nataliapastre-dev
-
-**E-mail:**  
-natalia.pastre@yahoo.com.br
-
-**Portfólio:**  
-https://portfolio-mobile.onrender.com/
+Busco conectar minha experiência com processos, organização e visão de negócio ao desenvolvimento de aplicações funcionais, intuitivas e capazes de transformar necessidades reais em soluções digitais.
 
 ---
 
-<p align="center">
-  <strong>Desenvolvendo • Aprendendo • Evoluindo</strong>
-</p>
+## 📬 Contato
 
-<p align="center">
-  Desenvolvido por <strong>Natália Baptista Pastre</strong> 💜
-</p>
+<div align="center">
+
+### Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natália_Pastre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliapastre-dev/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-nataliapastre--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nataliapastre-dev)
+
+📧 **natalia.pastre@yahoo.com.br**
+
+🌐 **[Portfólio Online](https://portfolio-mobile.onrender.com/)**
+
+<br>
+
+### Desenvolvendo • Aprendendo • Evoluindo
+
+**Natália Baptista Pastre**
+
+</div>
