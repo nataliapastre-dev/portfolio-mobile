@@ -61,6 +61,16 @@ O projeto também representa a conexão entre minha experiência anterior em **A
 
 ---
 
+## 👩‍💻 Sobre mim
+
+Sou formada em **Administração**, com pós-graduação em **Gestão Empresarial** e mais de 10 anos de experiência profissional na área administrativa.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para dezembro de 2026, direcionando minha trajetória para o desenvolvimento **Front-end e Mobile**.
+
+Busco conectar minha experiência com processos, organização e visão de negócio ao desenvolvimento de aplicações funcionais, intuitivas e capazes de transformar necessidades reais em soluções digitais.
+
+---
+
 ## 💼 Projetos apresentados
 
 O portfólio reúne **7 projetos** que representam diferentes etapas da minha evolução no desenvolvimento web e mobile.
@@ -232,15 +242,6 @@ portfolio-mobile/
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Sou formada em **Administração**, com pós-graduação em **Gestão Empresarial** e mais de 10 anos de experiência profissional na área administrativa.
-
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com conclusão prevista para dezembro de 2026, direcionando minha trajetória para o desenvolvimento **Front-end e Mobile**.
-
-Busco conectar minha experiência com processos, organização e visão de negócio ao desenvolvimento de aplicações funcionais, intuitivas e capazes de transformar necessidades reais em soluções digitais.
-
----
 
 ## 📬 Contato
 
